@@ -1,5 +1,5 @@
 # Wyoming Vosk Standalone
-A standalone container for vosk using the wyoming protocol. Inspired by [this hass.io addon](https://github.com/rhasspy/hassio-addons/tree/master/vosk).
+A standalone container for vosk using the wyoming protocol. Inspired by [this hass.io addon](https://github.com/rhasspy/hassio-addons/tree/master/vosk) https://github.com/rhasspy/hassio-addons/tree/master/vosk.
 
 # Prerequisites
 * docker
