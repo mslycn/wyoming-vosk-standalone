@@ -14,6 +14,11 @@ A standalone container for vosk using the wyoming protocol. Inspired by [this ha
 
 A directory called `dirs` will be created in the current folder. Inside that folder are the volumes specified in `docker-compose.yaml`
 
+amd64 
+~~~
+docker pull ghcr.io/mslycn/wyoming-vosk-standalone:1.5.0
+~~~
+
 # Using it in Home Assistant
 * Settings->Integrations->Add Integration: Add the wyoming protocol and add the IP of wherever you are running `Wyoming Vosk Standalone`. The port is `10300`.
 
