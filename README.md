@@ -14,7 +14,7 @@ A standalone container for vosk using the wyoming protocol. Inspired by [this ha
 
 A directory called `dirs` will be created in the current folder. Inside that folder are the volumes specified in `docker-compose.yaml`
 
-amd64 
+ Supports amd64 Architecture only
 ~~~
 docker pull ghcr.io/mslycn/wyoming-vosk-standalone:1.5.0
 ~~~
