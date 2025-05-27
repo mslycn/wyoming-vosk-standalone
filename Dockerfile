@@ -1,4 +1,4 @@
-ARG BUILD_FROM=ghcr.io/home-assistant/aarch64-base-debian:bookworm
+ARG BUILD_FROM=arm64v8/ubuntu:22.04
 FROM ${BUILD_FROM}
 
 # Set shell
